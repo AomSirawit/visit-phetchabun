@@ -79,6 +79,49 @@ function Phetchabun() {
         ></iframe>
       </div>
 
+      <div>
+        <h1 className="mx-5 mt-5 text-xl font-semibold">4. อุทยานแห่งชาติตาดหมอก</h1>
+        <img
+          className="mt-5"
+          src="https://th.readme.me/f/7673/588784b353fd6f0f1bd5ee8c.jpg"
+        />
+        <p className=" text-gray-400">
+          Cr. https://www.thetrippacker.com/
+        </p>
+        <p className="font-medium mt-5">
+        อุทยานแห่งชาติตาดหมอก ตั้งอยู่ในตำบลนาป่า อำเภอเมืองเพชรบูรณ์ ถ้าใครอยากมาชมธรรมชาติ เดินป่า เที่ยวน้ำตก ตั้งแคมป์พักแรม แนะนำให้มาที่นี่เลย เพราะบรรยากาศดีมาก บางครั้งอาจจะมีน้องกวางมาโชว์ตัวให้เห็นด้วยนะ
+        </p>
+        <p className="font-semibold mt-5 text-lg">พิกัด</p>
+
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3827.76927881641!2d101.26556587677139!3d16.38571143088451!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31202dc43a65646d%3A0x1d0100b2df330140!2z4Lit4Li44LiX4Lii4Liy4LiZ4LmB4Lir4LmI4LiH4LiK4Liy4LiV4Li0IOC4leC4suC4lOC4q-C4oeC4reC4gQ!5e0!3m2!1sth!2sth!4v1708098580944!5m2!1sth!2sth"
+          style={{ width: "100%", height: "200px" }}
+          className="mt-5 mb-5"
+        ></iframe>
+      </div>
+
+      
+      <div>
+        <h1 className="mx-5 mt-5 text-xl font-semibold">5. หอโบราณคดีเพ็ชรบูรณ์อินทราชัย</h1>
+        <img
+          className="mt-5"
+          src="https://img.wongnai.com/p/1600x0/2019/11/05/aee3811cf73941e491141ec56aa01527.jpg"
+        />
+        <p className=" text-gray-400">
+          Cr. https://www.wongnai.com/
+        </p>
+        <p className="font-medium mt-5">
+        เป็น พิพิธภัณฑ์ แสดงชีวประวัติ ประวัติศาสตร์ และ โบราณคดี ก่อตั้งเมื่อปี พ.ศ.2556 เดิมเป็นที่ตั้งของศาลากลางจังหวัดเพชรบูรณ์หลังเก่า เมื่อมีการย้ายศาลากลางจังหวัดไปอยู่ศูนย์ราชการ ทางเทศบาลเมืองเพชรบูรณ์จึงขอใช้สถานที่นี้เพื่อทำเป็นหอโบราณคดีโดยมีดำริมาจากบุคคลที่มีความรู้ทางด้านประวัติศาสตร์และวัฒนธรรมภูมิปัญญาต่าง ๆ ของจังหวัดเพชรบูรณ์ 
+        </p>
+        <p className="font-semibold mt-5 text-lg">พิกัด</p>
+
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3827.1117819276983!2d101.15705907677169!3d16.419148329971996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31202555d111e059%3A0x5b35e3334e14fb01!2z4Lir4Lit4LmC4Lia4Lij4Liy4LiT4LiE4LiU4Li14LmA4Lie4LmH4LiK4Lij4Lia4Li54Lij4LiT4LmM4Lit4Li04LiZ4LiX4Lij4Liy4LiK4Lix4Lii!5e0!3m2!1sth!2sth!4v1708108092041!5m2!1sth!2sth"
+          style={{ width: "100%", height: "200px" }}
+          className="mt-5 mb-5"
+        ></iframe>
+      </div>
+
     </div>
   );
 }
